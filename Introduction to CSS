@@ -1,0 +1,49 @@
+<html>
+    <head>
+        <style>
+         /*Element Selector*/
+         p{font-size: 18;}
+         /*id Selector*/
+         #i2{background-color: palegoldenrod;}
+         /*class selector*/
+         .c1{background-color: palegoldenrod;}
+         /*sibiling selector*/
+         h1+P{background-color: plum;}
+         /*group selector*/
+         p,p{background-color: pink;}
+         /*universal selector*/
+         *{background-color:palegreen;}
+        </style>
+    </head>
+    <body>
+     <center>
+       <h1 style="color: brown;"> The Life Of Sri Krishna</h1>
+     </center>
+     <p style="color: blue;">In 3228 BCE in Mathura, India, a child was born who was destined to reshape the spiritual and temporal destiny of
+    mankind—Sri Krishna. In his 125 years of life, Sri Krishna made an indelible impression upon mankind’s collective
+    consciousness—re-educating the world about devotion and dharma as well as the ultimate reality. His life was a model for
+    people in days past, the modern world and surely for those in ages to come. Seeing Krishna as a perfect personification
+    of divinity, to this day hundreds of millions of people pray to him, chant his names, meditate on his form and try to
+    put his teachings into practice. His life has inspired a treasure house of poetry, music, painting, sculpture and other
+    fine arts. As Amma says, “His glory is unsurpassable. His story is a source of joy and inspiration for people from all
+    walks of life.” </p>
+    <p style="color:blue" id="i2">A child, a brother, a charioteer, a warrior, a disciple, a guru, a cowherd, a messenger, the beloved of the gopis…
+    Throughout his life, Krishna enacted so many roles—the whole time never forgetting that they were just that, roles and
+    that his true nature was eternal, ever blissful consciousness. In this way, he was able to remain detached and thus
+    perform flawlessly, never allowing the smile to fall from his face. This, Amma says, is perhaps his greatest teaching. </p>
+    <p style="color: blue;">“There have been very few who have been able to rejoice both in victory and in defeat,” Amma says. “Sri Krishna is one
+    who celebrated both life and death. That is why he was always able to give a big smile. He took birth with a smile on
+    his face, lived with a smile, and left his body with a smile. The message that he conveyed through his life is that we
+    should make life full of laughter.”</p>
+    <p style="color: blue;" class="c1">Krishna’s life was so full, it would be impossible to recount it all here. It is told primarily through Srimad
+    Bhagavatam, Garga Samhita, Visnu Purana, Brahmavaivarta Purana, Mahabharata, Harivamsa and several other puranas.
+    However, here are some of the broad strokes.</p>
+    <p style="color: blue;">Krishna, in fact, took birth in a prison cell. A sage had told his egoistic uncle, King Kamsa, that he would be killed
+    by his sister Devaki’s child. So Kamsa imprisoned Devaki and had each child she bore murdered. However, Devaki, and her
+    husband, Vasudeva, finally were able to sneak one child off to safety. This was Sri Krishna. They sent Krishna off to
+    Vraja, where he was raised by a foster mother, Yasoda. It was in Vrindavan, one of the villages of Vraja, that Krishna
+    won the hearts of the gopis, the cowherds of the village. “By spending all his time with the gopis of Vrindavan—playing
+    with them, joking with them, stealing their butter and milk, etc—what he actually was doing was stealing their hearts,”
+    Amma says. It is from this that Krishna was given the name “Chitta Chora” [one who steals the mind].</p>
+    </body>
+</html>
